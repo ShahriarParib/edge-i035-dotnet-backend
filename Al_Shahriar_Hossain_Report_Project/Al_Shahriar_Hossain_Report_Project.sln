@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Al_Shahriar_Hossain_Report_Project", "Al_Shahriar_Hossain_Report_Project.rptproj", "{E942AB13-4047-420F-9912-FFACBF243A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.Debug|Default.ActiveCfg = Debug
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.Debug|Default.Build.0 = Debug
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.Debug|Default.Deploy.0 = Debug
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.DebugLocal|Default.Build.0 = DebugLocal
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.Release|Default.ActiveCfg = Release
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.Release|Default.Build.0 = Release
+		{E942AB13-4047-420F-9912-FFACBF243A9D}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E7F0BC0-3CE8-4C91-862F-5EA30D98FABE}
+	EndGlobalSection
+EndGlobal
